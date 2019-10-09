@@ -1,0 +1,18 @@
+version: '3.0'
+
+services:
+  angular:
+    build:
+      context: ./
+    container_name: angularNodeDocker
+    ports:
+      - 8090:4200
+    volumes:
+      - dataAngular:/home/node/app
+
+volumes:
+  dataAngular:
+    driver_opts:
+      type: "none"
+      o: "bind"
+      device: /home/debdell/Documents/appAngular/appAngular
