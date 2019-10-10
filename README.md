@@ -1,2 +1,2 @@
 # AngularDockerNode
-Angular project on dockerise node server 
+Angular project on dockerise node server

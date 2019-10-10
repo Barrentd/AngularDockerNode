@@ -15,4 +15,4 @@ volumes:
     driver_opts:
       type: "none"
       o: "bind"
-      device: /home/debdell/Documents/appAngular/appAngular
+      device: /appAngular
