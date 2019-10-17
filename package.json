@@ -10,7 +10,6 @@
   "popper.js": ">= 1.15.0",
   "zone.js": "^0.9.1",
   "rxjs": "^6.4.0",
-  "d3": "^4.13.0",
   "bootstrap": ">= 4.3.1",
   "@angular/platform-browser": ">= 8.2.7",
   "@angular/common": ">=8.2.7",
